@@ -1,0 +1,19 @@
+{
+  "name": "scraper",
+  "version": "1.0.0",
+  "description": "web scraping ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/K311iN/Scraper.git"
+  },
+  "author": "Kellin Baldenegro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/K311iN/Scraper/issues"
+  },
+  "homepage": "https://github.com/K311iN/Scraper#readme"
+}
